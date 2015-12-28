@@ -17,6 +17,7 @@ A collection of concise write-ups on small things I learn day to day.
 
 ### git
 - [Rename a Branch](git/rename_a_branch.md)
+- [Change Remote URL](git/change_remote_url.md)
 
 ### rails
 

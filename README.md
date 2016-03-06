@@ -26,3 +26,4 @@ A collection of concise write-ups on small things I learn day to day.
 ### screen
 
 ### vim
+- [Clear Search Highlight on Return](vim/clear_search_highlight_on_return.md)

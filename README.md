@@ -20,6 +20,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [Change Remote URL](git/change_remote_url.md)
 
 ### rails
+- [Bundle from Local Path or Github](rails/bundle_from_local_github.md)
 
 ### ruby
 

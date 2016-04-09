@@ -28,6 +28,7 @@ A collection of concise write-ups on small things I learn day to day.
 
 ### screen
 - [Change a Screen Window Name](screen/rename_window.md)
+- [Move Past Window 9](screen/move_past_window_9.md)
 
 ### vim
 - [Clear Search Highlight on Return](vim/clear_search_highlight_on_return.md)

@@ -32,3 +32,4 @@ A collection of concise write-ups on small things I learn day to day.
 
 ### vim
 - [Clear Search Highlight on Return](vim/clear_search_highlight_on_return.md)
+- [Zoom In/Out of Window](vim/zoom_in_out.md)

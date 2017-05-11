@@ -23,6 +23,7 @@ A collection of concise write-ups on small things I learn day to day.
 
 ### rails
 - [Bundle from Local Path or Github](rails/bundle_from_local_github.md)
+- [Run Raw SQL from Console](rails/run_raw_sql.md)
 
 ### ruby
 

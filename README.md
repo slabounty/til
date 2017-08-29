@@ -14,6 +14,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [screen](#screen)
 - [Vim](#vim)
 - [Database](#database)
+- [Keyboard](#keyboard)
 
 
 ### git
@@ -38,3 +39,6 @@ A collection of concise write-ups on small things I learn day to day.
 
 ### database
 - [Restart Postgres on Mac](database/restart_database_on_mac.md)
+
+### keyboard
+- [Keyboard Stuck w/ Right Shift Up Arrow](keyboard/keyboard_stuck_right_shift_up_arrow.md)

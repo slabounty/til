@@ -28,6 +28,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [Run Raw SQL from Console](rails/run_raw_sql.md)
 
 ### ruby
+- [Print Out StringIO File](ruby/print_string_io.md)
 
 ### screen
 - [Change a Screen Window Name](screen/rename_window.md)

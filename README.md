@@ -38,6 +38,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [Clear Search Highlight on Return](vim/clear_search_highlight_on_return.md)
 - [Zoom In/Out of Window](vim/zoom_in_out.md)
 - [Create a New Tab from a Window](vim/new_tab_from_window.md)
+- [Default vim buffer name](vim/default_buffer.md)
 
 ### database
 - [Restart Postgres on Mac](database/restart_database_on_mac.md)

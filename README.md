@@ -26,6 +26,7 @@ A collection of concise write-ups on small things I learn day to day.
 ### rails
 - [Bundle from Local Path or Github](rails/bundle_from_local_github.md)
 - [Run Raw SQL from Console](rails/run_raw_sql.md)
+- [Convert a String to a Boolean Value](rails/boolean_from_string.md)
 
 ### ruby
 - [Print Out StringIO File](ruby/print_string_io.md)

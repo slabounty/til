@@ -22,6 +22,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [Change Remote URL](git/change_remote_url.md)
 - [Find files that have been deleted in a repo](git/find_deleted_files.md)
 - [Reset the Remote Repo URL](git/reset_repository_url.md)
+- [A Common Git Workflow](git/common_workflow.md)
 
 ### rails
 - [Bundle from Local Path or Github](rails/bundle_from_local_github.md)

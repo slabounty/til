@@ -15,6 +15,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [Vim](#vim)
 - [Database](#database)
 - [Keyboard](#keyboard)
+- [Jupyter](#jupyter)
 
 
 ### git
@@ -48,6 +49,9 @@ A collection of concise write-ups on small things I learn day to day.
 
 ### keyboard
 - [Keyboard Stuck w/ Right Shift Up Arrow](keyboard/keyboard_stuck_right_shift_up_arrow.md)
+
+### jupyter
+- [Start the Jupyter Notebook](jupyter/start_jupyter.md)
 
 ### GPG
 - [Check a GPG key](gpg/check_key.md)

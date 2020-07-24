@@ -16,6 +16,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [Database](#database)
 - [Keyboard](#keyboard)
 - [Jupyter](#jupyter)
+- [Scala](#scala)
 
 
 ### git
@@ -52,6 +53,9 @@ A collection of concise write-ups on small things I learn day to day.
 
 ### jupyter
 - [Start the Jupyter Notebook](jupyter/start_jupyter.md)
+
+### scala
+- [Get class of a Scala Object](scala/get_class.md)
 
 ### GPG
 - [Check a GPG key](gpg/check_key.md)

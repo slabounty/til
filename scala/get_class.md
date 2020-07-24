@@ -1,8 +1,8 @@
 # Get class of a Scala Object
 
-To get the class of a Scala object
+To get the class of a Scala object use getClass
 
-```
-someObject.getClass
+```scala
+val objectClass = someObject.getClass
 ```
 

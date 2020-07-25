@@ -17,6 +17,7 @@ A collection of concise write-ups on small things I learn day to day.
 - [Keyboard](#keyboard)
 - [Jupyter](#jupyter)
 - [Scala](#scala)
+- [Machine Learning](#ml)
 
 
 ### git
@@ -57,6 +58,9 @@ A collection of concise write-ups on small things I learn day to day.
 ### scala
 - [Get class of a Scala Object](scala/get_class.md)
 - [Scala Maps](scala/scala_maps.md)
+
+### ml
+- [Model Evaluation](ml/model_evaluation.md)
 
 ### GPG
 - [Check a GPG key](gpg/check_key.md)

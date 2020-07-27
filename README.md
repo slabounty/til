@@ -61,6 +61,7 @@ A collection of concise write-ups on small things I learn day to day.
 
 ### ml
 - [Model Evaluation](ml/model_evaluation.md)
+- [Regress Evaluation](ml/regression_evaluation.md)
 
 ### GPG
 - [Check a GPG key](gpg/check_key.md)

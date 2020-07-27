@@ -1,6 +1,6 @@
 # Model Evaluation
 
-Accuracy
+## Accuracy
 
 ```
 ∑ true positive + ∑ true negative
@@ -8,7 +8,7 @@ Accuracy
 ∑ total population
 ```
 
-Precision
+## Precision
 
 ```
 ∑ true positive
@@ -16,7 +16,7 @@ Precision
 ∑ true positive + ∑ false positive
 ```
 
-Recall
+## Recall
 
 ```
 ∑ true positive
@@ -24,7 +24,7 @@ Recall
 ∑ true positive + ∑ false negative
 ```
 
-F1 (harmonic mean between precision and recall)
+## F1 (harmonic mean between precision and recall)
 
 ```
 2 * precision * recall
@@ -33,7 +33,8 @@ precision + recall
 ```
 
 
-Confusion Matrix
+## Confusion Matrix
+
 ```
                                |--------------------------------------------|
                                |  predicted condition                       |
